@@ -1,0 +1,16 @@
+C:\Users\Sacha\Desktop\Код\Рефлексия\Рефлексия\bin\Debug\net5.0\Рефлексия.exe
+C:\Users\Sacha\Desktop\Код\Рефлексия\Рефлексия\bin\Debug\net5.0\Рефлексия.deps.json
+C:\Users\Sacha\Desktop\Код\Рефлексия\Рефлексия\bin\Debug\net5.0\Рефлексия.runtimeconfig.json
+C:\Users\Sacha\Desktop\Код\Рефлексия\Рефлексия\bin\Debug\net5.0\Рефлексия.runtimeconfig.dev.json
+C:\Users\Sacha\Desktop\Код\Рефлексия\Рефлексия\bin\Debug\net5.0\Рефлексия.dll
+C:\Users\Sacha\Desktop\Код\Рефлексия\Рефлексия\bin\Debug\net5.0\ref\Рефлексия.dll
+C:\Users\Sacha\Desktop\Код\Рефлексия\Рефлексия\bin\Debug\net5.0\Рефлексия.pdb
+C:\Users\Sacha\Desktop\Код\Рефлексия\Рефлексия\obj\Debug\net5.0\Рефлексия.csproj.AssemblyReference.cache
+C:\Users\Sacha\Desktop\Код\Рефлексия\Рефлексия\obj\Debug\net5.0\Рефлексия.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sacha\Desktop\Код\Рефлексия\Рефлексия\obj\Debug\net5.0\Рефлексия.AssemblyInfoInputs.cache
+C:\Users\Sacha\Desktop\Код\Рефлексия\Рефлексия\obj\Debug\net5.0\Рефлексия.AssemblyInfo.cs
+C:\Users\Sacha\Desktop\Код\Рефлексия\Рефлексия\obj\Debug\net5.0\Рефлексия.csproj.CoreCompileInputs.cache
+C:\Users\Sacha\Desktop\Код\Рефлексия\Рефлексия\obj\Debug\net5.0\Рефлексия.dll
+C:\Users\Sacha\Desktop\Код\Рефлексия\Рефлексия\obj\Debug\net5.0\ref\Рефлексия.dll
+C:\Users\Sacha\Desktop\Код\Рефлексия\Рефлексия\obj\Debug\net5.0\Рефлексия.pdb
+C:\Users\Sacha\Desktop\Код\Рефлексия\Рефлексия\obj\Debug\net5.0\Рефлексия.genruntimeconfig.cache
